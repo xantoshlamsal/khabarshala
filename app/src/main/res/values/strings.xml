@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Khabarshala</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
